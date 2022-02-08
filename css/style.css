@@ -2,3 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    background-color: greenyellow;
+}
+
+a {
+    background-color: green;
+}
+p {
+    background-color: gold;
+}
