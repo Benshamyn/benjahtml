@@ -15,5 +15,12 @@ p {
     background-color: gold;
 }
 img {
-    
+    width: 325px;
+    height: 325px;
+    display: block;
+    margin: auto;
+}
+div {
+    background-color: grey;
+    width: 900px;
 }
