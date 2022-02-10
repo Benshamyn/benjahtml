@@ -8,7 +8,7 @@ h1 {
     text-align: center;
 }
 
-il {
+a {
     background-color: green;
 }
 p {
@@ -22,5 +22,5 @@ img {
 }
 div {
     background-color: grey;
-    width: 900px;
+    width: 1400px;
 }
