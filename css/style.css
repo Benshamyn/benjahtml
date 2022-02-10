@@ -5,6 +5,7 @@
 
 h1 {
     background-color: greenyellow;
+    text-align: center;
 }
 
 il {
@@ -12,4 +13,7 @@ il {
 }
 p {
     background-color: gold;
+}
+img {
+    
 }
