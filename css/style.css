@@ -28,6 +28,7 @@ a {
 }
 p {
     background-color: gold;
+    width: 70%; 
 }
 img {
     width: 325px;
@@ -36,6 +37,13 @@ img {
     margin: auto;
 }
 div {
-    background-color: grey;
-    width: 1400px;
+    background-color: skyblue;
+    width: 1370px;
+    height: 1140;
+
+}
+.parrafo{
+    display: flex;
+    justify-content: center;
+    align-items:  center;
 }
