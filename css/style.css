@@ -40,7 +40,9 @@ img {
     margin: auto;
 }
 div {
-    background-image: url(../multimedia/Rocas.jpg);
+    background-image: url(../multimedia/fondo.jpg);
+    width: 100%;
+    height: 20.3rem;
 }
 .Info{
     display: flex;
