@@ -4,9 +4,11 @@
 }
 
 h1 {
-    background-color: greenyellow;
     text-align: center;
     font-size: 45px;
+    text-transform: uppercase;
+    background-image: url(../multimedia/Rocas.jpg);
+    color: white;
 }
 
 .lista {
@@ -22,9 +24,8 @@ h1 {
 }
 
 a {
-    background-color: white;
+    color: white;
     text-decoration: none;
-    
 }
 p {
     background-color: gold;
@@ -37,13 +38,18 @@ img {
     margin: auto;
 }
 div {
-    background-color: skyblue;
-    width: 1370px;
-    height: 1140;
+    background-image: url(../multimedia/Rocas.jpg);
+    background-olor: grey;
+    widh: 1370px;
+    heght: 1140;
 
 }
-.parrafo{
+.Info{
     display: flex;
     justify-content: center;
-    align-items:  center;
+    align-items: center;
+    text-transform: uppercase;
+    background-color: black;
+    width: 1;
+    height: 5rem;
 }
