@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-size: 10px;
+}
 
 h1 {
     text-align: center;
@@ -21,15 +24,14 @@ h1 {
     list-style: none;
     margin: 1rem;
     text-transform: uppercase;
+    border-right: solid .1rem white;
+    padding-right: 1rem;
 }
 
 a {
     color: white;
     text-decoration: none;
-}
-p {
-    background-color: gold;
-    width: 70%; 
+    font-size: 1rem;
 }
 img {
     width: 325px;
@@ -39,17 +41,13 @@ img {
 }
 div {
     background-image: url(../multimedia/Rocas.jpg);
-    background-olor: grey;
-    widh: 1370px;
-    heght: 1140;
-
 }
 .Info{
     display: flex;
     justify-content: center;
     align-items: center;
     text-transform: uppercase;
-    background-color: black;
-    width: 1;
+    background-color: #000;
+    width: 100%;
     height: 5rem;
 }
